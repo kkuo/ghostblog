@@ -1,0 +1,4 @@
+ghostblog
+=========
+
+myblog
